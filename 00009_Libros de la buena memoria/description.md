@@ -1,4 +1,4 @@
-¡Definamos más funciones! :writing_hand: Dani ama el primer dia de cada mes :date:, y por eso definió esta función... 
+¡Definamos más funciones! :writing_hand: Dani ama el primer día de cada mes :date:, y por eso definió esta función... 
 
 ```python
 def es_dia_favorito(dia_del_mes):
@@ -14,7 +14,7 @@ False
 True
 ```
 
-> ¡Ahora te toca a vos! Dani también dice que a alguien `le_gusta_leer`, cuando la cantidad de libros que recuerda haber leído es mayor a 20. Por ejemplo:
+> ¡Ahora te toca a ti! Dani también dice que a alguien `le_gusta_leer`, cuando la cantidad de libros que recuerda haber leído es mayor a 20. Por ejemplo:
 > 
 > ```python
 > ム le_gusta_leer(15)
@@ -24,6 +24,6 @@ True
 > True
 > ```
 > 
-> Definí y probá en la consola la función `le_gusta_leer`.
+> Define y prueba en la consola la función `le_gusta_leer`.
 
 
