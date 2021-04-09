@@ -33,5 +33,5 @@ Por ejemplo, cuando invocamos `mitad` con el argumento `4`, a través de este "a
 >   return len(un_string) + len(otro_string)  
 > ```
 > 
-> ... y marcá las opciones correctas. 
+> ... y marca las opciones correctas. 
 
