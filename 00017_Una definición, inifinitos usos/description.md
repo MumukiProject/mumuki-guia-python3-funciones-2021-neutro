@@ -1,6 +1,6 @@
-Sí, Python nos da operaciones que nos permites resolver diferentes tareas y además nos permite combinarlas, pero el verdadero poder de la programación es que también podemos crear nuestras propias operaciones. 
+Sí, Python nos da operaciones que nos permiten resolver diferentes tareas y además nos permite combinarlas, pero el verdadero poder de la programación es que también podemos crear nuestras propias operaciones. 
 
-Y para hacer esto, ¡démosle entonces la bienvenida a _las funciones_ :confetti_ball:! Nuestras nuevas amigas nos permitirán "enseñarle"  a la computadora a realizar una tarea que originalmente no estaba incluida en el lenguaje mediante. ¿Cómo? _Escribiendo una definición_ como la siguiente **una sola vez** :one:... 
+Y para hacer esto, ¡démosle la bienvenida a _las funciones_ :confetti_ball:! Nuestras nuevas amigas nos permitirán "enseñarle"  a la computadora a realizar una tarea que originalmente no estaba incluida en el lenguaje mediante. ¿Cómo? _Escribiendo una definición_ como la siguiente **una sola vez** :one:... 
 
 ```python
 def es_mas_largo_que(un_string, otro_string):
@@ -27,6 +27,6 @@ True # si los argumentos cambian, el resultado puede ser diferente también
 
 > Veamos si se va entendiendo: 
 > 
->  1. Copiá la _definición_ de la función `es_mas_largo_que` en el editor que está debajo;
->  2. en la `Consola`, invocá la función `es_mas_largo_que` varias veces con argumentos diferentes; 
->  3. luego, volvé a la pestaña de `Solución` y presioná el botón `Enviar`.
+>  1. Copia la _definición_ de la función `es_mas_largo_que` en el editor que está debajo;
+>  2. en la `Consola`, invoca la función `es_mas_largo_que` varias veces con argumentos diferentes; 
+>  3. luego, vuelve a la pestaña de `Solución` y presiona el botón `Enviar`.
