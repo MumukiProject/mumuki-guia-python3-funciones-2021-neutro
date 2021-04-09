@@ -7,4 +7,4 @@ Por ejemplo:
 "¡MIGUEL!"
 ```
 
-> Definí la función `gritar`. Recordá la función `str.upper` que convierte en mayúsculas un string.
+> Define la función `gritar`. Recuerda la función `str.upper` que convierte en mayúsculas un string.
