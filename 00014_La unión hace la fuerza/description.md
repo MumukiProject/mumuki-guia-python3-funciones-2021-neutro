@@ -9,8 +9,8 @@ False
 True
 ```
 
-> ¡Ahora te toca a vos! Averiguá usando la consola si:
+> ¡Ahora te toca a ti! Averigua usando la consola si:
 >
-> * `"Bahía de Samborombón"` es mas largo que `"Sierra Grande"`
+> * `"Bahía de Samborombón"` es más largo que `"Sierra Grande"`
 > * `"Patagonia"` es más largo que `"Cuyo"`
 > * `"Tierra del Fuego"` es más largo que `"Santiago del Estero"` 
