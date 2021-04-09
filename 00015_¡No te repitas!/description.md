@@ -1,4 +1,4 @@
-Combinar operaciones es muy útil, pero tiene el problema de que ahora tenemos que recordar (o pensar :thought_balloon:) como hacerlo cada vez que lo necesitemos. Esto nos puede llevar a equivocarnos...
+Combinar operaciones es muy útil, pero tiene el problema de que ahora tenemos que recordar (o pensar :thought_balloon:) cómo hacerlo cada vez que lo necesitemos. Esto nos puede llevar a equivocarnos...
 
 ```python
 # queremos saber si el primero es mas largo que el segundo
@@ -11,5 +11,5 @@ False # Ups ¡era para el otro lado!
 ム es_mas_largo_que("Santiago del Estero", "Misiones")
 ```
 
-> :octagonal_sign: ¡Momento! ¿Esto funcionará? Averigualo probándolo en la consola.
+> :octagonal_sign: ¡Momento! ¿Esto funcionará? Averígualo probándolo en la consola.
 
